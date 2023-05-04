@@ -24,4 +24,4 @@ Follow the instructions below to complete your app.
 
 ![Horizontal Rotation](/images/Screenshot_1617792845.png)
 
-To submit your practical, remember to commit the changes and push to remote repository.
+To submit your practical, remember to commit the changes and push to remote repository. 
